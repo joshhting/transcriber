@@ -1,0 +1,7 @@
+basic-pitch[tf]==0.2.0
+music21>=8.3.0
+numpy>=1.22,<1.26
+pretty_midi>=0.2.10
+scikit-learn>=0.17,<1.6
+scipy>=1.4.1,<1.11
+
